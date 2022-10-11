@@ -1,3 +1,11 @@
 # python-1
 
-Binder link: https://mybinder.org/v2/gh/data-analytics-in-business/python-1/HEAD
+Materials for week 1 practical session
+
+To get started:
+
+Open this link in a new tab/window
+Wait for JupyterLab to load in your browser
+Go through the notebooks (Basic => Advanced => Expert)
+Do not worry if you can't do expert!
+Remember to choose ‘Python 3 (ipykernel)’ when requested.
